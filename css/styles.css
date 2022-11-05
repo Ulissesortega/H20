@@ -3,7 +3,7 @@
 {
 height:90vh;
     width: 100%;
-    background-image:url(../assets/Water-is-Life-featured-B.jpg);
+    background-image:url(../assets/water.gif);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -31,7 +31,11 @@ height:90vh;
 }
 
 .moveup{
-    margin-top: -30;
+    margin-top: -150px;
+}
+
+.move{
+    margin-top: -175px;
 }
 
 /* Arely's CSS */
