@@ -86,6 +86,7 @@ height:90vh;
     margin: auto;
     width: 75%;
     padding: 10px;
+    font-family: 'Caveat', cursive;
   }
 
 .redu{
@@ -94,6 +95,7 @@ height:90vh;
 
 .textbg{
     background-color: rgba(0,0,0,0.5);
+    font-family: 'Caveat', cursive;
     
 }
 
