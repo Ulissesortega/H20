@@ -37,12 +37,15 @@ height:90vh;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-size: 23px;
     box-shadow: 10px 10px black;
-    font-size: 16px;
     font-family: 'Caveat', cursive;
     text-shadow: 2px 2px 5px black;
     text-shadow: 0 0 3px black;
    
+}
+.barrelRoll{
+    background-color: black;
 }
 
 .button1:hover{
@@ -77,6 +80,24 @@ height:90vh;
     font-weight: bold;
     font-size: 60px;
 
+}
+
+.card-title{
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    font-weight: bol;
+}
+
+
+.mid{
+    text-align: left;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+
+.barrelRoll{
+    border-width: 20px;
+    border-color: black;
 }
 
 
