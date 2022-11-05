@@ -11,8 +11,10 @@ height:100vh;
 .Tformat{
     font-weight: bold;
     font-style: italic;
+    color:white;
         
 }
+<<<<<<< HEAD
 .button1 {
     background-color: darkblue; /* Green */
     border: none;
@@ -26,3 +28,15 @@ height:100vh;
     font-family: 'Orbitron', sans-serif;
     text-shadow: 2px 2px 5px black;
 }
+=======
+
+/* Arely's CSS */
+
+
+
+
+
+
+
+/* Manuel CSS */
+>>>>>>> bd970089efb229f143f339dbb428b97769125b82
