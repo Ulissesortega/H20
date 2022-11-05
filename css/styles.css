@@ -72,11 +72,12 @@ height:90vh;
 .titletextu{
     color:darkmagenta;
     font-size: 75px;
+    font-weight: 900;
     
 }
 
 .texta{
-    font-size: 21px;
+    font-size: 25px;
     color:white;
     max-width: 1800px;
 }
@@ -86,6 +87,8 @@ height:90vh;
     margin: auto;
     width: 75%;
     padding: 10px;
+    font-family: 'Caveat', cursive;
+
   }
 
 .redu{
@@ -94,6 +97,8 @@ height:90vh;
 
 .textbg{
     background-color: rgba(0,0,0,0.5);
+    font-family: 'Caveat', cursive;
+    font-size: larger;
     
 }
 
