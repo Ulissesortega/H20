@@ -69,3 +69,11 @@ height:90vh;
     background-position: center;
     position: relative;
 }
+.WComm{
+    height:90vh;
+    width: 100%;
+    background-image:url(../assets/Water2.0.webp);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
