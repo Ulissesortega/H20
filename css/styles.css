@@ -210,10 +210,10 @@ btn{
 .First{
     display: flex;
     justify-content: center;
-    color: black;
+    color: whitesmoke;
 }
 .First1{
-    color: black;
+    color: whitesmoke;
     font-size: x-large;
 }
 .col{
@@ -225,4 +225,7 @@ btn{
     display: flex;
     justify-content: center;
   
+}
+.First3{
+    color: whitesmoke;
 }
