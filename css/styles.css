@@ -1,7 +1,7 @@
 
 .BGMain
 {
-height:100vh;
+height:90vh;
     width: 100%;
     background-image:url(../assets/Water-is-Life-featured-B.jpg);
     background-size: cover;
@@ -30,6 +30,9 @@ height:100vh;
     text-shadow: 2px 2px 5px black;
 }
 
+.moveup{
+    margin-top: -30;
+}
 
 /* Arely's CSS */
 
