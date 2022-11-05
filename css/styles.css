@@ -4,6 +4,7 @@ h2{
 
 h1{
     font-family: 'Caveat', cursive;
+    font-weight: bold;
 }
 .BGMain
 {
@@ -31,7 +32,7 @@ height:90vh;
 }
 
 .button1 {
-    background-color: darkblue; /* Green */
+    background-color: lightblue; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -76,6 +77,14 @@ height:90vh;
     height:90vh;
     width: 100%;
     background-image:url(../assets/water.gif);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.WComm{
+    height:90vh;
+    width: 100%;
+    background-image:url(../assets/Water2.0.webp);
     background-size: cover;
     background-position: center;
     position: relative;
