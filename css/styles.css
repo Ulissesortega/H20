@@ -9,9 +9,6 @@ h1{
     font-weight: bold;
     text-shadow: 0 0 3px black;
 }
-
-
-
 .BGMain
 {
 height:90vh;
@@ -22,11 +19,19 @@ height:90vh;
     position: relative;
 }
 
+.BGIndoors
+{
+height:90vh;
+    width: 100%;
+    background-image:url(../assets/Water2.0.webp);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
 .Tformat{
     font-weight: bold;
     font-style: italic;
-    color:white;
-        
+    color:white;    
 }
 
 .button1 {
@@ -59,6 +64,39 @@ height:90vh;
 .move{
     margin-top: -175px;
 }
+
+.white{
+    color:blue
+    
+}
+
+.titletextu{
+    color:blue;
+    font-size: 75px;
+}
+
+.texta{
+    font-size: 21px;
+    color:white;
+    max-width: 1800px;
+}
+
+.center1 {
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+  }
+
+.redu{
+    color:;
+}
+
+.textbg{
+    background-color: rgba(0,0,0,0.5);
+    
+}
+
 
 /* Arely's CSS */
 
