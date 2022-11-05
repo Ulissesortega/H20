@@ -1,10 +1,13 @@
 h2{
     font-family: 'Caveat', cursive;
+    text-shadow: 0 0 3px black;
+    font-weight: bold;
 }
 
 h1{
     font-family: 'Caveat', cursive;
     font-weight: bold;
+    text-shadow: 0 0 3px black;
 }
 .BGMain
 {
@@ -32,7 +35,7 @@ height:90vh;
 }
 
 .button1 {
-    background-color: lightblue; /* Green */
+    background-color: rgb(51, 80, 168); /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -43,6 +46,12 @@ height:90vh;
     font-size: 16px;
     font-family: 'Caveat', cursive;
     text-shadow: 2px 2px 5px black;
+    text-shadow: 0 0 3px black;
+   
+}
+
+.button1:hover{
+    color: gray;
 }
 
 .moveup{
@@ -92,6 +101,19 @@ height:90vh;
     color: white;
     
     font-family: 'Caveat', cursive;
+    text-shadow: 0 0 3px black;
+    font-weight: bold;
+    font-size: 90px;
+
+}
+
+.title2{
+    color: white;
+    
+    font-family: 'Caveat', cursive;
+    text-shadow: 0 0 3px black;
+    font-weight: bold;
+    font-size: 60px;
 
 }
 
