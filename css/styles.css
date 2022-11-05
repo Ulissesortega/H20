@@ -131,6 +131,10 @@ height:90vh;
     color: white;
   }
 
+  .brad{
+    border-radius: 14px;
+  }
+
 
 /* Arely's CSS */
 
@@ -158,6 +162,12 @@ height:90vh;
     font-family: 'Caveat', cursive;
     font-size: 30px;
     font-weight: bol;
+}
+.prayImg
+{
+    float: left;
+    z-index: 0;
+    padding: 0.5em;
 }
 
 
