@@ -221,19 +221,31 @@ btn{
 .First{
     display: flex;
     justify-content: center;
-    color: black;
+    color: whitesmoke;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
 }
 .First1{
-    color: black;
+    color: whitesmoke;
     font-size: x-large;
+    font-family: 'Caveat', cursive;
 }
 .col{
     display: flex;
     justify-content: flex-end;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
 
 }
 .Second{
     display: flex;
     justify-content: center;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
   
+}
+.First3{
+    color: whitesmoke;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
 }
