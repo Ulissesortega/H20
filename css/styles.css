@@ -1,3 +1,4 @@
+
 .BGMain
 {
 height:100vh;
@@ -14,7 +15,7 @@ height:100vh;
     color:white;
         
 }
-<<<<<<< HEAD
+
 .button1 {
     background-color: darkblue; /* Green */
     border: none;
@@ -28,11 +29,13 @@ height:100vh;
     font-family: 'Orbitron', sans-serif;
     text-shadow: 2px 2px 5px black;
 }
-=======
+
 
 /* Arely's CSS */
 
-
+.title{
+    color: white;
+}
 
 
 
