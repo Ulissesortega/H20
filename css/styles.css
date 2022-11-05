@@ -37,7 +37,7 @@ height:90vh;
 /* Arely's CSS */
 
 .title{
-    color: white;
+    color: black;
 }
 
 
@@ -45,4 +45,11 @@ height:90vh;
 
 
 /* Manuel CSS */
->>>>>>> bd970089efb229f143f339dbb428b97769125b82
+.Water{
+    height:90vh;
+    width: 100%;
+    background-image:url(../assets/water.gif);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
