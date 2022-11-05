@@ -54,9 +54,36 @@ height:90vh;
 }
 
 .white{
+    color:blue
     
 }
 
+.titletextu{
+    color:blue;
+    font-size: 75px;
+}
+
+.texta{
+    font-size: 21px;
+    color:white;
+    max-width: 1800px;
+}
+
+.center1 {
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+  }
+
+.redu{
+    color:;
+}
+
+.textbg{
+    background-color: rgba(0,0,0,0.5);
+    
+}
 
 
 /* Arely's CSS */
