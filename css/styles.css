@@ -103,7 +103,7 @@ height:90vh;
     font-family: 'Caveat', cursive;
     text-shadow: 0 0 3px black;
     font-weight: bold;
-    font-size: 90px;
+    font-size: 50px;
 
 }
 
@@ -142,9 +142,24 @@ height:90vh;
     
 }
 .carousel-inner{
-
+    
 }
 .First{
     display: flex;
     justify-content: center;
+    color: black;
+}
+.First1{
+    color: black;
+    font-size: x-large;
+}
+.col{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.Second{
+    display: flex;
+    justify-content: center;
+  
 }
